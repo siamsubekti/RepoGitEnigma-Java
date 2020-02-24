@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "photo": "https://i.pravatar.cc/311",
+    "name": "Sanders",
+    "position": "Colonel",
+    "detail": {
+      "email": "sanders@colonels.com",
+      "phone": "0987654321",
+      "address": "Kentucky"
+    }
+  },
+  {
+    "id": 2,
+    "photo": "https://i.pravatar.cc/312",
+    "name": "Ronald",
+    "position": "Clown",
+    "detail": {
+      "email": "ronald@clowns.com",
+      "phone": "9876543210",
+      "address": "California"
+    }
+  },
+  {
+    "id": 3,
+    "photo": "https://i.pravatar.cc/313",
+    "name": "Wendy",
+    "position": "Sales Girl",
+    "detail": {
+      "email": "wendy@sales.com",
+      "phone": "8765432109",
+      "address": "Ohio"
+    }
+  },
+  {
+    "id": 4,
+    "photo": "https://i.pravatar.cc/314",
+    "name": "Borger",
+    "position": "King",
+    "detail": {
+      "email": "borger@kings.com",
+      "phone": "7654321098",
+      "address": "Florida"
+    }
+  }
+]

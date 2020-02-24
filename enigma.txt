@@ -1,0 +1,16 @@
+Rangkuman Materi ( HashSet, ArrayList, String ) 
+ 
+Hashset merupakan salah satu jenis collection framework yang terdapat dalam bahasa pemrograman Java, Hashset 
+mewarisi class Abstract serta mengimplementasi interface Set, yang digunakan untuk membuat struktur data.
+Struktur data pada Hashset diorganisasikan secara terurut atau unik, sehingga nilai pada Hashset tidak bisa 
+di duplikasikan, jika terdeteksi ada duplikasi nilai, maka akan diabaikan. 
+ 
+ArrayList pada bahasa pemrograman Java, merupakan salah satu collection yang bisa kalian gunakan untuk menampilkan
+daftar atau list nilai/value, yang bersifat dinamis dan juga dapat dimodifikasi, ukuran pada ArrayList dapat kita
+ubah dengan cara menambahkan (add) atau menghapusnya (remove). Tidak seperti Array pada umumnya, pada ArrayList 
+kita tidak dapat menggunakan tipe data primitive, seperti int, char, boolean, float, dsb. 
+ 
+String adalah tipe data untuk teks yang merupakan gabungan huruf, angka, whitespace (spasi), dan berbagai karakter.
+Fungsi ini digunakan untuk membuat identifier String/teks. 
+String juga sering disebut sebagai “array of char” 
+ 

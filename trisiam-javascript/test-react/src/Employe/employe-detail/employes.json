@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "photo": "https://i.pravatar.cc/311",
+    "name": "Sanders",
+    "position": "Colonel",
+    "detail": {
+      "email": "sanders@colonels.com",
+      "phone": "0987654321",
+      "address": "Kentucky"
+    }
+  }
+]

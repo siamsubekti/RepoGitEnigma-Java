@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4951151-e4ac-4bbe-bc34-7d447ea87cf7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../friends-servlet/web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PendaftaranSiswa.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectHero/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectHero/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../friends-orm-newTask/src/com/enigmacamp/friends/db/entities/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../friends-orm-newTask/src/com/enigmacamp/friends/db/entities/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../friends-orm-newTask/src/com/enigmacamp/friends/db/repositories/PersonRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../friends-orm-newTask/src/com/enigmacamp/friends/db/repositories/PersonRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../friends-servlet/.settings/org.eclipse.wst.common.component" beforeDir="false" afterPath="$PROJECT_DIR$/../friends-servlet/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../friends-servlet/WebContent/WEB-INF/views/persons/listGender.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../friends-servlet/WebContent/WEB-INF/views/persons/listGender.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../friends-servlet/WebContent/WEB-INF/views/persons/personId.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../friends-servlet/WebContent/WEB-INF/views/persons/personId.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../friends-servlet/WebContent/WEB-INF/views/persons/personlist.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../friends-servlet/WebContent/WEB-INF/views/persons/personlist.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../friends-servlet/target/m2e-wtp/web-resources/META-INF/maven/web/web/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../friends-servlet/target/m2e-wtp/web-resources/META-INF/maven/web/web/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../friends-servlet/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../friends-servlet/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../friends-servlet/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../friends-servlet/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laundry-orm-next1/src/main/java/com/enigmacamp/laundry/db/entities/LaundryItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laundry-orm-next1/src/main/java/com/enigmacamp/laundry/db/entities/LaundryItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laundry-orm-next1/target/classes/META-INF/maven/com.enigmacamp/laundry-orm/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../laundry-orm-next1/target/classes/META-INF/maven/com.enigmacamp/laundry-orm/pom.properties" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SGKCMyuuEcEcxiOMhxf5wABC5Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.enigmacamp.siswa.PendaftaranApp" />
+      <module name="PendaftaranSiswa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4951151-e4ac-4bbe-bc34-7d447ea87cf7" name="Default Changelist" comment="" />
+      <created>1571184363812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571184363812</updated>
+      <workItem from="1571184366670" duration="28372000" />
+      <workItem from="1571249584373" duration="2795000" />
+      <workItem from="1575774290199" duration="2682000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
